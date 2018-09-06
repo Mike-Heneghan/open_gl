@@ -3,7 +3,7 @@ package com.example.mike.myapplication;
 import android.content.Context;
 import android.opengl.GLSurfaceView;
 
-public class MyGLSurfaceView extends GLSurfaceView{
+class MyGLSurfaceView extends GLSurfaceView{
 
     private final MyGLRenderer mRenderer;
 
